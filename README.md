@@ -8,10 +8,10 @@
 <div class="s1">
 <div class="img">
 <img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot%201.png" width="250" height="500" />
-  </div>
+</div>
 <div class="img">
 <img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot_20190622-175405.png" width="250" height="500" />
-  </div>
+</div>
 </div>
 
 A new Flutter project.
