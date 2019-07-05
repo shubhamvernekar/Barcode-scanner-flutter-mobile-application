@@ -1,4 +1,9 @@
-# xbarcodereader
+# Barcode & Qrcode Scanner Android Application in Flutter
+
+# Fetures
+1. Flash Light.
+2. Email, Link, Call.
+3. Fast and easy.
 
 <img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot%201.png" width="200" height="400" />
 
