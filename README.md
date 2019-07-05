@@ -5,9 +5,14 @@
 2. Email, Link, Call.
 3. Fast and easy.
 
-<img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot%201.png" width="200" height="400" />
-
-<img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot_20190622-175405.png" width="200" height="400" />
+<div class="s1">
+<div class="img">
+<img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot%201.png" width="250" height="500" />
+  </div>
+<div class="img">
+<img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot_20190622-175405.png" width="250" height="500" />
+  </div>
+</div>
 
 A new Flutter project.
 
