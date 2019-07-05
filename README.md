@@ -1,5 +1,8 @@
 # xbarcodereader
-![Image description](https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot_20190622-175405.png)
+
+<img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot%201.png" width="200" height="400" />
+
+<img src="https://github.com/shubhamvernekar/Barcode-scanner-flutter-mobile-application/blob/master/Screenshot_20190622-175405.png" width="200" height="400" />
 
 A new Flutter project.
 
